@@ -1,5 +1,8 @@
 # portfolio-upgrade
 
+## Description
+
+A personal portfolio to show off some sites that were created by me. 
 
 ![ppic2](https://user-images.githubusercontent.com/60405505/128931219-f918fdd0-98cf-4ac5-ace5-94cdcd434727.PNG)
 
@@ -9,3 +12,7 @@
 Link to site: 
 
 https://acp25.github.io/portfolio-upgrade/
+
+## Built with
+
+HTML, CSS, Google Fonts and JavaScript
